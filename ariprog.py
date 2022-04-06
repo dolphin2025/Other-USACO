@@ -1,7 +1,7 @@
 # from timeit import default_timer as timer
 
 """
-ID: frank.b1
+ID: 
 LANG: PYTHON3
 TASK: ariprog
 """
